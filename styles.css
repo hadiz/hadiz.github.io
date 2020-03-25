@@ -60,15 +60,15 @@ a {
 
 @media only screen and (max-width: 768px) {
     /* For mobile phones: */
-    [class*="icon"] {
+    .icon {
       width: 300px;
     }
 
-    [class*="icon2"] {
+    .icon2 {
         width: 295px;
       }
 
-    [class*="app"] {
+    .app{
         width: 200px;
         height: 200px;
       }
