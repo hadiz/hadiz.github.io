@@ -61,11 +61,16 @@ a {
 @media only screen and (max-width: 768px) {
     /* For mobile phones: */
     [class*="icon"] {
-      width: 150px;
+      width: 300px;
     }
 
     [class*="icon2"] {
-        width: 145px;
+        width: 295px;
+      }
+
+    [class*="app"] {
+        width: 200px;
+        height: 200px;
       }
   }
 
