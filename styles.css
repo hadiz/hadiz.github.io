@@ -78,7 +78,15 @@ a {
         height: 200px;
     }
 
-    h1, h3, h5 {
+    h1 {
+        font-size: x-large;
+    }
+
+    h3 {
+        font-size: large;
+    }
+
+    h5 {
         font-size: medium;
     }
   }
