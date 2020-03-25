@@ -27,7 +27,7 @@ a {
     border-radius: 50%;
     width: 100px;
     height: 100px;
-    margin-top: 12em;
+    margin-top: 10%;
     border:3px solid white;
     box-shadow: 8px 10px 20px #808080;
 }
@@ -37,7 +37,7 @@ a {
     width: 100px;
     height: 100px;
     box-shadow: 8px 10px 20px #808080;
-    margin-bottom: 2em;
+    margin-bottom: 1%;
 }
 
 .center {
@@ -51,10 +51,10 @@ a {
 }
 
 .icon {
-    width: 3em;
+    width: 7%;
 }
 
 .icon2 {
-    width: 2.85em;
+    width: 6.7%;
 }
 
