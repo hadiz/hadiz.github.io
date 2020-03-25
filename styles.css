@@ -62,6 +62,7 @@ a {
     /* For mobile phones: */
     .icon {
       width: 300px;
+      display: none;
     }
 
     .icon2 {
