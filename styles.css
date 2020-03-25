@@ -1,0 +1,58 @@
+body {
+    /* background-color: rgba(195, 226, 222, 0.25); */
+    /* background-color: red; */
+    font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+}
+
+h1, h3, h5 {
+    color: #111a30;
+}
+
+div {
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+}
+
+.child {
+    padding: 10px;
+    margin: 10px;
+}
+
+.avatar {
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+    margin-top: 15%;
+    border:3px solid white;
+    box-shadow: 8px 10px 20px #808080;
+}
+
+.app {
+    border-radius: 15px;
+    width: 100px;
+    height: 100px;
+    box-shadow: 8px 10px 20px #808080;
+    margin-bottom: 2em;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.text_shadow {
+    text-shadow: 1px 1px 3px #808080;
+}
+
+.icon {
+    width: 3em;
+}
+
+.icon2 {
+    width: 2.85em;
+}
+
