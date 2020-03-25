@@ -51,10 +51,21 @@ a {
 }
 
 .icon {
-    width: 100px;
+    width: 75px;
 }
 
 .icon2 {
-    width: 97px;
+    width: 70px;
 }
+
+@media only screen and (max-width: 768px) {
+    /* For mobile phones: */
+    [class*="icon"] {
+      width: 150px;
+    }
+
+    [class*="icon2"] {
+        width: 145px;
+      }
+  }
 
