@@ -73,9 +73,13 @@ a {
         height: 200px;
       }
 
-      .avatar {
+    .avatar {
         width: 200px;
         height: 200px;
-      }
+    }
+
+    h1, h3, h5 {
+        font-size: medium;
+    }
   }
 
