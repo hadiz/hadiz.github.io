@@ -1,11 +1,13 @@
 body {
-    /* background-color: rgba(195, 226, 222, 0.25); */
-    /* background-color: red; */
     font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+    background-image: url('src/background.png');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
 }
 
 h1, h3, h5 {
     color: #111a30;
+    text-align: center;
 }
 
 div {
@@ -25,7 +27,7 @@ a {
     border-radius: 50%;
     width: 100px;
     height: 100px;
-    margin-top: 15%;
+    margin-top: 12em;
     border:3px solid white;
     box-shadow: 8px 10px 20px #808080;
 }
