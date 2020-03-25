@@ -60,6 +60,10 @@ a {
 
 @media only screen and (max-device-width: 850px) {
     /* For mobile phones: */
+    body {
+        background-image: url('src/background-mobile.png');
+    }
+    
     .icon {
       width: 180px;
     }
