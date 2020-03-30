@@ -59,7 +59,7 @@ a {
 }
 
 .icon3 {
-    width: 80px;
+    width: 77px;
 }
 
 @media only screen and (max-device-width: 850px) {
@@ -74,6 +74,10 @@ a {
 
     .icon2 {
         width: 175px;
+      }
+
+    .icon3 {
+        width: 182px;
       }
 
     .app{
