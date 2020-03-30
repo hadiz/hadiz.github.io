@@ -58,6 +58,10 @@ a {
     width: 70px;
 }
 
+.icon3 {
+    width: 80px;
+}
+
 @media only screen and (max-device-width: 850px) {
     /* For mobile phones: */
     body {
