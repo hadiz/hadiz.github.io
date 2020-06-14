@@ -3,6 +3,7 @@ body {
     background-image: url('src/background.png');
     background-repeat: no-repeat;
     background-size: 100% 100%;
+    size: 100%;
 }
 
 h1, h3, h5 {
@@ -51,15 +52,7 @@ a {
 }
 
 .icon {
-    width: 75px;
-}
-
-.icon2 {
     width: 70px;
-}
-
-.icon3 {
-    width: 77px;
 }
 
 @media only screen and (max-device-width: 850px) {
@@ -71,14 +64,6 @@ a {
     .icon {
       width: 180px;
     }
-
-    .icon2 {
-        width: 175px;
-      }
-
-    .icon3 {
-        width: 182px;
-      }
 
     .app{
         width: 180px;
